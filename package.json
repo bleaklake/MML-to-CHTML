@@ -1,6 +1,6 @@
 {
   "name": "mml-to-chtml",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The MathJax wrapper to convert MML to CHTML",
   "main": "MMLToCHTML.js",
   "keywords": [
